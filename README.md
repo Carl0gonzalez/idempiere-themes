@@ -1,22 +1,23 @@
-# 🎨 idempiere-themes
+# idempiere-themes
 
-Repositorio orientado a **temas visuales y personalización de interfaz para iDempiere**.
+Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
 
-![iDempiere](https://img.shields.io/badge/iDempiere-themes-0A7E8C)
+---
 
-## Descripción
+## 📌 Objetivo
 
-Agrupa recursos destinados a modificar o extender la apariencia del ERP, apoyando branding, usabilidad o identidad visual.
+Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
 
-## Objetivo
+## 📁 Revisión recomendada
 
-Facilitar la gestión de estilos y personalización visual dentro de implementaciones iDempiere.
+Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
 
-## Uso
+```bash
+git clone git@github.com:Carl0gonzalez/idempiere-themes.git
+cd idempiere-themes
+```
 
-Aplica los recursos del repositorio en el entorno iDempiere correspondiente según la estrategia de theming utilizada.
-
-## Autor
+## 👤 Autor
 
 **Carlo González**
 
